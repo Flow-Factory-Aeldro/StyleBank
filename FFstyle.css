@@ -1,3 +1,7 @@
-.theme-entry .worklistToolbarHeaderTextWrapper {
-    background-color: #3d88ff !important;
+.theme-entry .nav {
+    background-color: #3d88ff;
+}
+
+.theme-entry .headerTxt {
+    color: white;
 }
